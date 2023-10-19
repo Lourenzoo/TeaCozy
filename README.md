@@ -1,4 +1,4 @@
-# TeaCozy
+# [TeaCozy](https://lourenzoo.github.io/TeaCozy/)
 
 "Off-Platform Project: Tea Cozy by Codecademy."
 Hello everyone, this is the Off-Platform Project: Tea Cozy by Codecademy. I tried to create a template page according to the project template:
